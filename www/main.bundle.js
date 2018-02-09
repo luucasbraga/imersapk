@@ -2230,6 +2230,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 
 var HostService = (function () {
+    //host: string = "http://ec2-18-221-79-146.us-east-2.compute.amazonaws.com:9000/imersa/"
     /*	host: string = "http://localhost:8080/imersa_backend-beta/" */
     /*host: string = "http://192.168.0.3:9000/imersa/";*/
     function HostService() {

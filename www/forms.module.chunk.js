@@ -162,8 +162,8 @@ var EdicaoConteudoComponent = (function () {
             message: message,
         }, {
             type: type[color],
-            timer: 7000,
-            delay: 10000,
+            timer: 1000,
+            delay: 1000,
             placement: {
                 from: from,
                 align: align
@@ -179,8 +179,8 @@ var EdicaoConteudoComponent = (function () {
             message: message,
         }, {
             type: type[color],
-            timer: 3000,
-            delay: 10000,
+            timer: 1000,
+            delay: 1000,
             placement: {
                 from: from,
                 align: align
@@ -511,8 +511,8 @@ var EdicaoDepoimentoComponent = (function () {
             message: message,
         }, {
             type: type[color],
-            timer: 7000,
-            delay: 10000,
+            timer: 1000,
+            delay: 1000,
             placement: {
                 from: from,
                 align: align
@@ -801,8 +801,8 @@ var EdicaoNarrativaComponent = (function () {
             message: message,
         }, {
             type: type[color],
-            timer: 7000,
-            delay: 10000,
+            timer: 1000,
+            delay: 1000,
             placement: {
                 from: from,
                 align: align
@@ -818,8 +818,8 @@ var EdicaoNarrativaComponent = (function () {
             message: message,
         }, {
             type: type[color],
-            timer: 3000,
-            delay: 10000,
+            timer: 1000,
+            delay: 1000,
             placement: {
                 from: from,
                 align: align
@@ -1143,8 +1143,8 @@ var EdicaoUsuarioComponent = (function () {
             message: message,
         }, {
             type: type[color],
-            timer: 7000,
-            delay: 10000,
+            timer: 1000,
+            delay: 1000,
             placement: {
                 from: from,
                 align: align
@@ -1160,8 +1160,8 @@ var EdicaoUsuarioComponent = (function () {
             message: message,
         }, {
             type: type[color],
-            timer: 3000,
-            delay: 10000,
+            timer: 1000,
+            delay: 1000,
             placement: {
                 from: from,
                 align: align
@@ -1876,8 +1876,8 @@ var WizardComponent = (function () {
             message: message,
         }, {
             type: type[color],
-            timer: 7000,
-            delay: 10000,
+            timer: 1000,
+            delay: 1000,
             placement: {
                 from: from,
                 align: align
@@ -1893,8 +1893,8 @@ var WizardComponent = (function () {
             message: message,
         }, {
             type: type[color],
-            timer: 3000,
-            delay: 10000,
+            timer: 1000,
+            delay: 1000,
             placement: {
                 from: from,
                 align: align

@@ -76,8 +76,7 @@ var TimelineComponent = (function () {
                 document.body.style.backgroundImage = "url(" + _this.urlUserFundo + ")";
             else
                 document.body.style.backgroundImage = "url('../assets/img/login-imersa-22.png')";
-            document.body.style.backgroundSize = "1440px 960px";
-            document.body.style.backgroundRepeat = "no-repeat";
+            document.body.style.backgroundSize = "100vw 960px";
             _this.momentoService.getMomentosByUser(_this.userTimeLine).subscribe(function (momentosResponse) {
                 _this.momentos = JSON.parse(JSON.parse(JSON.stringify(momentosResponse))._body);
                 console.log(_this.momentos);
