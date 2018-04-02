@@ -2242,7 +2242,7 @@ var HostService = (function () {
         /*host: string = "http://localhost:8080/imersa_backend-req4/"*/
         // host: string = "http://grupocubus.dyndns.org:50001/";
         //host: string = "http://ykssistemas.dyndns.org:50001/imersa/";
-        this.host = "http://ec2-18-221-79-146.us-east-2.compute.amazonaws.com:9000/imersa/";
+        this.host = "http://ec2-18-217-145-105.us-east-2.compute.amazonaws.com:9000/imersa/";
     }
     HostService = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Injectable"])(),
